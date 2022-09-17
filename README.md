@@ -1,5 +1,26 @@
-### Hi there 👋
+![Kotlin Programming](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
- I'm Ilya I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but I also enjoy creating backend side of things for my projects. 
- 
+# Ilya Shevtsov
+I'm Ilya I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but I also enjoy creating backend side of things for my projects. 
+
+## Skills
+- MVVM
+- RXJava & Coroutines & Kotlin Flow
+- OkHTTH3 & Retrofit2
+- Clean Architecture
+- ViewBinding
+- Kotlin Navigation Component 
+- Dagger
+- Koltin Exposed
+- Ktor
+
+## Other
+- 🔭 I’m currently working on CSGO Case Portfolio Tracker 
+- ⚡ Fun fact: My Programming journey started with learning about Excel 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilya-shevtsov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ilya-shevtsov-155181201/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/princeofroyalnothing/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.ilya-shevtsov.com/blog)  
+
+## Stats
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya-shevtsov)](https://github.com/anuraghazra/github-readme-stats)
