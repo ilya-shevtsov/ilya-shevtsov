@@ -16,6 +16,9 @@ I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but
 - Koltin Exposed
 - Ktor
 - MPAndroidChart
+- Groupie
+- Fresco
+- Kotlin Serialization
 - Kotlin, Java, Python
 
 ## Examples of Work
