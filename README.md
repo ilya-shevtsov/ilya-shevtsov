@@ -25,7 +25,6 @@ I'm Ilya I am a self-taught Android developer. I'm mainly a frontend Kotlin deve
 - [NoManSky Trading Advisor](https://github.com/ilya-shevtsov/NoManSkyTradingAdvisor)
 ### Sample Projects
 - [Kotlin Navigation Project](https://github.com/ilya-shevtsov/Kotlin-Navigation-Project)
-- [Ktor Project](https://github.com/ilya-shevtsov/Ktor-Sample-Project)
 - [AWS Elastic Beanstalk with Ktor Project](https://github.com/ilya-shevtsov/AWS-Elastic-Beanstalk-Ktor-Sample-Project)
 
 ## Socials
