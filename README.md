@@ -1,7 +1,7 @@
 ![Kotlin Programming](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 # Ilya Shevtsov
-I'm Ilya I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but I also enjoy creating backend side of things for my projects. 
+I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but I also enjoy creating backend side of things for my projects. 
 
 ## Skills and Experience
 
