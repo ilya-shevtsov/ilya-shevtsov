@@ -14,6 +14,7 @@ I'm Ilya I am a self-taught Android developer. I'm mainly a frontend Kotlin deve
 - Dagger
 - Koltin Exposed
 - Ktor
+- MPAndroidChart
 - Kotlin, Java, Python
 
 ## Examples of Work
