@@ -15,6 +15,7 @@ I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but
 - Dagger
 - Koltin Exposed
 - Ktor
+- H2 Database
 - MPAndroidChart
 - Groupie
 - Fresco
