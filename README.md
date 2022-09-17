@@ -36,3 +36,7 @@ I'm Ilya I am a self-taught Android developer. I'm mainly a frontend Kotlin deve
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya-shevtsov&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-shevtsov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ilya-shevtsov)
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
