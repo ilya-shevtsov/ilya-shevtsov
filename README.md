@@ -4,8 +4,11 @@ I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but
 ## Skills and Experience
 
 - MVVM
-- RXJava & Coroutines & Kotlin Flow
-- OkHTTH3 & Retrofit2
+- RXJava 
+- KotlinCoroutines
+- Kotlin Flow
+- OkHTTH3
+- Retrofit2
 - Clean Architecture
 - ViewBinding
 - Kotlin Navigation Component 
