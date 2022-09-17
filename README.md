@@ -3,7 +3,8 @@
 # Ilya Shevtsov
 I'm Ilya I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but I also enjoy creating backend side of things for my projects. 
 
-## Skills
+## Skills and Experience
+
 - MVVM
 - RXJava & Coroutines & Kotlin Flow
 - OkHTTH3 & Retrofit2
@@ -13,10 +14,11 @@ I'm Ilya I am a self-taught Android developer. I'm mainly a frontend Kotlin deve
 - Dagger
 - Koltin Exposed
 - Ktor
+- Kotlin, Java, Python
 
-## Other
-- 🔭 I’m currently working on CSGO Case Portfolio Tracker 
-- ⚡ Fun fact: My Programming journey started with learning about Excel 
+## Examples of Work
+
+- [![CSGO Case Portfolio Tracker](https://github.com/ilya-shevtsov/CSGOCasesWatcherApp)]
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilya-shevtsov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ilya-shevtsov-155181201/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/princeofroyalnothing/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.ilya-shevtsov.com/blog)  
