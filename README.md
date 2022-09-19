@@ -20,6 +20,7 @@ I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but
 - Groupie
 - Fresco
 - Kotlin Serialization
+- Creating my own Seriazliser
 - Kotlin, Java, Python
 
 ## Examples of Work
