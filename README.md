@@ -29,7 +29,7 @@ I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but
 - [CSGO Case Portfolio Tracker Backend](https://github.com/ilya-shevtsov/CSGOCasesWatcherAppServer)
 - [EncryptMeApp](https://github.com/ilya-shevtsov/EncryptMeApp)
 - [My Calculator](https://github.com/ilya-shevtsov/MyCalculator)
-- [NoManSky Trading Advisor](https://github.com/ilya-shevtsov/NoManSkyTradingAdvisor)
+- [NoManSky Trading Advisor (My first programming project](https://github.com/ilya-shevtsov/NoManSkyTradingAdvisor)
 ### Sample Projects
 - [Kotlin Navigation Project](https://github.com/ilya-shevtsov/Kotlin-Navigation-Project)
 - [AWS Elastic Beanstalk with Ktor Project](https://github.com/ilya-shevtsov/AWS-Elastic-Beanstalk-Ktor-Sample-Project)
