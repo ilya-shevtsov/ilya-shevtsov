@@ -5,7 +5,7 @@ I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but
 
 - MVVM
 - RXJava 
-- KotlinCoroutines
+- Kotlin Coroutines
 - Kotlin Flow
 - OkHTTH3
 - Retrofit2
