@@ -7,7 +7,7 @@ I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but
 - RXJava 
 - Kotlin Coroutines
 - Kotlin Flow
-- OkHTTH3
+- OkHttp3
 - Retrofit2
 - Clean Architecture
 - ViewBinding
