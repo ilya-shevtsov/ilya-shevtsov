@@ -34,7 +34,7 @@ I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but
 
 ## Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ilya-shevtsov-155181201/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/princeofroyalnothing/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.ilya-shevtsov.com/blog)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ilya-shevtsov-155181201/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/princeofroyalnothing/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://medium.com/@iliashevtsov)  
 
 ## Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya-shevtsov&count_private=true&show_icons=true)
