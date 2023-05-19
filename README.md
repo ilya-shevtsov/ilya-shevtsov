@@ -1,5 +1,7 @@
 # Ilya Shevtsov
-I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but I also enjoy creating backend side of things for my projects. 
+Hi! My name is Ilia Shevtsov and I am currently located in Tbilisi, Georgia and seeking a remote job.
+I have 2 years of commercial experience, knowledge of current technologies and best practices (SOLID, OOP, TDD, MVVM, Clean Architecture, Kotlin Coroutines, Unit Testing, etc...) and work on the previous project on my own, so I have experience in building an app from ground up. 
+I am versatile and have developed both frontend & backend for the projects I have worked on. For more detail you can check [my resume](https://drive.google.com/file/d/1b2elYS9DvsbTWNX-pqiMFOqgpcXk2wcM/view?usp=sharing).
 
 ## Skills and Experience
 
