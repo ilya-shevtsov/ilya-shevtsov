@@ -25,6 +25,9 @@ I am a self-taught Android developer. I'm mainly a frontend Kotlin developer but
 
 ## Examples of Work
 ### My Projects
+- [CSGOPortfolioApp](https://github.com/ilya-shevtsov/CSGOPortfolioApp)
+- [CSGOPortfolioAppBackend](https://github.com/ilya-shevtsov/CSGOPortfolioAppBackend)
+- [GickGick](https://github.com/ilya-shevtsov/GickGick)
 - [EncryptMeApp](https://github.com/ilya-shevtsov/EncryptMeApp)
 - [My Calculator](https://github.com/ilya-shevtsov/MyCalculator)
 - [NoManSky Trading Advisor](https://github.com/ilya-shevtsov/NoManSkyTradingAdvisor)
