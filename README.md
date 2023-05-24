@@ -29,8 +29,6 @@ I am versatile and have developed both frontend & backend for the projects I hav
 
 ## Examples of Work
 ### My Projects
-- [CSGOPortfolioApp](https://github.com/ilya-shevtsov/CSGOPortfolioApp)
-- [CSGOPortfolioAppBackend](https://github.com/ilya-shevtsov/CSGOPortfolioAppBackend)
 - [GickGick](https://github.com/ilya-shevtsov/GickGick)
 - [EncryptMeApp](https://github.com/ilya-shevtsov/EncryptMeApp)
 - [My Calculator](https://github.com/ilya-shevtsov/MyCalculator)
