@@ -7,16 +7,15 @@ I am versatile and have developed both frontend & backend for the projects I hav
 
 ## Skills and Experience
 
+- Kotlin, Java, Python
 - MVVM
-- RXJava 
-- Kotlin Coroutines
-- Kotlin Flow
-- OkHttp3
-- Retrofit2
 - Clean Architecture
+- Kotlin Coroutines & Flow
+- RXJava 
+- OkHttp3 & Retrofit2
 - ViewBinding
 - Kotlin Navigation Component 
-- Dagger
+- Dagger2
 - Koltin Exposed
 - Ktor
 - H2 Database
@@ -25,7 +24,6 @@ I am versatile and have developed both frontend & backend for the projects I hav
 - Fresco
 - Kotlin Serialization
 - Creating my own Seriazliser
-- Kotlin, Java, Python
 
 ## Examples of Work
 ### My Projects
