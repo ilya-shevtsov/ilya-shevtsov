@@ -17,7 +17,7 @@ I am versatile and have developed both frontend & backend for the projects I hav
 - Kotlin Navigation Component 
 - Dagger2
 - Hilt
-- Koltin Exposed
+- Kotlin Exposed
 - Ktor
 - Firebase Realtime Database
 - Firebase Auth
