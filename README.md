@@ -5,6 +5,16 @@ I have 2.5 years of commercial experience, knowledge of current technologies and
 
 I am versatile and have developed both frontend & backend for the projects I have worked on. For more detail you can check [my resume](https://drive.google.com/file/d/1b2elYS9DvsbTWNX-pqiMFOqgpcXk2wcM/view?usp=sharing).
 
+## Examples of Work
+### My Projects
+- [Simple Video Player App](https://github.com/ilya-shevtsov/VideoPlayerApp)
+- [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp)
+- [Live Group Chat Backend](https://github.com/ilya-shevtsov/ChatAppBackend)
+### Sample Projects
+- [Kotlin Navigation Project](https://github.com/ilya-shevtsov/Kotlin-Navigation-Project)
+- [AWS Elastic Beanstalk with Ktor Project](https://github.com/ilya-shevtsov/AWS-Elastic-Beanstalk-Ktor-Sample-Project)
+
+
 ## Skills and Experience
 - Kotlin 
 - Java
@@ -31,15 +41,6 @@ I am versatile and have developed both frontend & backend for the projects I hav
 - Fresco
 - Kotlin Serialization
 - Creating my own Seriazliser
-
-## Examples of Work
-### My Projects
-- [Simple Video Player App](https://github.com/ilya-shevtsov/VideoPlayerApp)
-- [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp)
-- [Live Group Chat Backend](https://github.com/ilya-shevtsov/ChatAppBackend)
-### Sample Projects
-- [Kotlin Navigation Project](https://github.com/ilya-shevtsov/Kotlin-Navigation-Project)
-- [AWS Elastic Beanstalk with Ktor Project](https://github.com/ilya-shevtsov/AWS-Elastic-Beanstalk-Ktor-Sample-Project)
 
 ## Socials
 
