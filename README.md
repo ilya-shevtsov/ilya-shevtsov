@@ -7,7 +7,7 @@ I am versatile and have developed both frontend & backend for the projects I hav
 
 ## Examples of Work
 ### My Projects
-- [Record & Play Audio App](https://github.com/ilya-shevtsov/RecordAndPlayAudioApp/tree/master)
+- [Simple Record & Play Audio App](https://github.com/ilya-shevtsov/RecordAndPlayAudioApp/tree/master)
 - [Simple Video Player App](https://github.com/ilya-shevtsov/VideoPlayerApp)
 - [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp)
 - [Live Group Chat Backend](https://github.com/ilya-shevtsov/ChatAppBackend)
