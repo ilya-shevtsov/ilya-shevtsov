@@ -7,7 +7,11 @@ I am versatile and have developed both frontend & backend for the projects I hav
 
 <table>
   <tr>
-    <td>One</td>
+    <td>- Kotlin, Java
+- MVVM
+- Clean Architecture
+- Kotlin Coroutines & Flow
+- RXJava </td>
     <td>Two</td>
   </tr>
 </table>
