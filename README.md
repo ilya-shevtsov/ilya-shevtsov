@@ -5,16 +5,12 @@ I have 2.5 years of commercial experience, knowledge of current technologies and
 
 I am versatile and have developed both frontend & backend for the projects I have worked on. For more detail you can check [my resume](https://drive.google.com/file/d/1b2elYS9DvsbTWNX-pqiMFOqgpcXk2wcM/view?usp=sharing).
 
-<table>
-  <tr>
-    <td> - Kotlin, Java</td
-
-- Clean Architecture
-- Kotlin Coroutines & Flow
-- RXJava >
-    <td>Two</td>
-  </tr>
-</table>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
 
 ## Skills and Experience
 
