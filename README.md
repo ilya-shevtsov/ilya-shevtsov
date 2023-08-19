@@ -33,6 +33,7 @@ I am versatile and have developed both frontend & backend for the projects I hav
 
 ## Examples of Work
 ### My Projects
+- [Simple Video Player App](https://github.com/ilya-shevtsov/VideoPlayerApp)
 - [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp)
 - [Ktor Backend for Live Group Chat App](https://github.com/ilya-shevtsov/ChatAppBackend)
 ### Sample Projects
