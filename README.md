@@ -10,9 +10,6 @@ I am versatile and have developed both frontend & backend for the projects I hav
     <td>One</td>
     <td>Two</td>
   </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
 </table>
 
 ## Skills and Experience
