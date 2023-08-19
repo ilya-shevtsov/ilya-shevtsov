@@ -35,7 +35,7 @@ I am versatile and have developed both frontend & backend for the projects I hav
 ### My Projects
 - [Simple Video Player App](https://github.com/ilya-shevtsov/VideoPlayerApp)
 - [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp)
-- [Ktor Backend for Live Group Chat App](https://github.com/ilya-shevtsov/ChatAppBackend)
+- [Live Group Chat Backend](https://github.com/ilya-shevtsov/ChatAppBackend)
 ### Sample Projects
 - [Kotlin Navigation Project](https://github.com/ilya-shevtsov/Kotlin-Navigation-Project)
 - [AWS Elastic Beanstalk with Ktor Project](https://github.com/ilya-shevtsov/AWS-Elastic-Beanstalk-Ktor-Sample-Project)
