@@ -6,26 +6,44 @@ I have 2.5 years of commercial experience, knowledge of current technologies and
 I am versatile and have developed both frontend & backend for the projects I have worked on. For more detail you can check [my resume](https://drive.google.com/file/d/1b2elYS9DvsbTWNX-pqiMFOqgpcXk2wcM/view?usp=sharing).
 
 ## Skills and Experience
-- Kotlin, Java
+Programming Languages:
+- Kotlin 
+- Java
+
+UI: 
+- XML
+- Kotlin Compose
+
+Architecture and Patterns:
 - MVVM
 - Clean Architecture
+
+Asynchronous Programming:
 - Kotlin Coroutines & Flow
-- RXJava 
+- RXJava
+
+Networking: 
 - OkHttp3 & Retrofit2
 - WebSocket
-- ViewBinding
-- Kotlin Navigation Component 
-- Dagger2
-- Hilt
-- Kotlin Exposed
+
+Database and Backend: 
+- Room Database
 - Ktor
 - Firebase Realtime Database
 - Firebase Auth
+- Kotlin Exposed
 - H2 Database
 - MangoDB
-- Room Database
-- MPAndroidChart
+
+Dependency injection:
+- Dagger2
+- Hilt
+
+Other: 
+- ViewBinding
 - Groupie
+- Kotlin Navigation
+- MPAndroidChart
 - Fresco
 - Kotlin Serialization
 - Creating my own Seriazliser
