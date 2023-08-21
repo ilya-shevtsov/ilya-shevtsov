@@ -36,6 +36,7 @@ I am versatile and have developed both frontend & backend for the projects I hav
 - MangoDB
 - Dagger2
 - Hilt
+- Koin
 - ViewBinding
 - Groupie
 - Kotlin Navigation
