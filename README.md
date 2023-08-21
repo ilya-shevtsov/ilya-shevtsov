@@ -15,7 +15,7 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 - [CheckForAccessApp](https://github.com/ilya-shevtsov/CheckForAccessApp) (Check if user has Root Access or Dev Options ON)
 
 ### Sample Projects
-- [Kotlin Navigation Project](https://github.com/ilya-shevtsov/Kotlin-Navigation-Project)
+- [Kotlin Navigation Project](https://github.com/ilya-shevtsov/Kotlin-Navigation-Project) ([Medium Article](https://medium.com/@iliashevtsov/how-to-set-up-aws-elastic-beanstalk-with-a-ktor-project-ccb7eb859e17)
 - [AWS Elastic Beanstalk with Ktor Project](https://github.com/ilya-shevtsov/AWS-Elastic-Beanstalk-Ktor-Sample-Project)
 
 
