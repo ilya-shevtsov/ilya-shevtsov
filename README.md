@@ -14,7 +14,7 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 - [Simple Video Player App](https://github.com/ilya-shevtsov/VideoPlayerApp) (ExoPlayer, MediaItem, Dagger Hilt, Coroutine Flow, Compose)
 - [CheckForAccessApp](https://github.com/ilya-shevtsov/CheckForAccessApp) (Check if user has Root Access or Dev Options ON)
 
-### Sample Projects
+### Sample Projects 
 - [Kotlin Navigation Project](https://github.com/ilya-shevtsov/Kotlin-Navigation-Project)
 - [AWS Elastic Beanstalk with Ktor Project](https://github.com/ilya-shevtsov/AWS-Elastic-Beanstalk-Ktor-Sample-Project)
 
