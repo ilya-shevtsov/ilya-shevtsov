@@ -12,7 +12,7 @@ I am versatile and have developed both frontend & backend for the projects I hav
 - [Simple Calculator App](https://github.com/ilya-shevtsov/SimpleCalculatorApp) (Compose)
 - [Simple Record & Play Audio App](https://github.com/ilya-shevtsov/RecordAndPlayAudioApp/tree/master) (Android MediaRecorder & MediaPlayer, Uri, Compose)
 - [Simple Video Player App](https://github.com/ilya-shevtsov/VideoPlayerApp) (ExoPlayer, MediaItem, Dagger Hilt, Coroutine Flow, Compose)
-- [CheckForAccessApp](https://github.com/ilya-shevtsov/CheckForAccessApp)
+- [CheckForAccessApp](https://github.com/ilya-shevtsov/CheckForAccessApp) (Check if user has Root Access or Dev Options ON)
 
 ### Sample Projects
 - [Kotlin Navigation Project](https://github.com/ilya-shevtsov/Kotlin-Navigation-Project)
