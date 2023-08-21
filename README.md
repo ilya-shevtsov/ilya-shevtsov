@@ -7,7 +7,7 @@ I am versatile and have developed both frontend & backend for the projects I hav
 
 ## Examples of Work
 ### My Pet Projects
-- [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp) (WebSocket, Dagger Hilt, MVVM, Compose)
+- [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp) (WebSocket, Dagger Hilt, Coroutine Flow, Compose)
 - [Live Group Chat Backend](https://github.com/ilya-shevtsov/ChatAppBackend) (Ktor, WebSocket, Koin, MangoDB)
 - [Simple Calculator App](https://github.com/ilya-shevtsov/SimpleCalculatorApp) (Compose)
 - [Simple Record & Play Audio App](https://github.com/ilya-shevtsov/RecordAndPlayAudioApp/tree/master) (Android MediaRecorder & MediaPlayer, Uri, Compose)
