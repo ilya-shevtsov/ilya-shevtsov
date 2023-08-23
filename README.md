@@ -5,11 +5,15 @@ I have 2.5 years of experience, knowledge of current technologies and best pract
 
 For more detail you can check [my resume](https://drive.google.com/file/d/1b2elYS9DvsbTWNX-pqiMFOqgpcXk2wcM/view?usp=sharing).
 
+Room, MVVM, Kotlin Coroutines & Flow and Compose. 
+
+
 ## Examples of Work
 ### Pet Projects
 - [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp) (WebSocket, Dagger Hilt, Coroutine Flow, Compose)
 - [Live Group Chat Backend](https://github.com/ilya-shevtsov/ChatAppBackend) (Ktor, WebSocket, Koin, MangoDB)
 - [Weather App](https://github.com/ilya-shevtsov/WeatherApp/tree/master) (Open Meteo API, Retrofit, Dagger Hilt, Clean Archetecture, MVVM, LocationManager, Kotlin Coroutines, Compose)
+- [Simple Contacts App](https://github.com/ilya-shevtsov/ContactsApp/tree/master) (Room, MVVM, Kotlin Coroutines & Flow, Compose)
 - [Simple Calculator App](https://github.com/ilya-shevtsov/SimpleCalculatorApp) (Compose)
 - [Simple Record & Play Audio App](https://github.com/ilya-shevtsov/RecordAndPlayAudioApp/tree/master) (Android MediaRecorder & MediaPlayer, Uri, Compose)
 - [Simple Video Player App](https://github.com/ilya-shevtsov/VideoPlayerApp) (ExoPlayer, MediaItem, Dagger Hilt, Coroutine Flow, Compose)
