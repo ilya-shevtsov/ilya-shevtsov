@@ -5,9 +5,6 @@ I have 2.5 years of experience, knowledge of current technologies and best pract
 
 For more detail you can check [my resume](https://drive.google.com/file/d/1b2elYS9DvsbTWNX-pqiMFOqgpcXk2wcM/view?usp=sharing).
 
-Room, MVVM, Kotlin Coroutines & Flow and Compose. 
-
-
 ## Examples of Work
 ### Pet Projects
 - [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp) (WebSocket, Dagger Hilt, Coroutine Flow, Compose)
