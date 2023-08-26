@@ -16,7 +16,7 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 - [Simple Calculator App](https://github.com/ilya-shevtsov/SimpleCalculatorApp) (Compose)
 - [Simple Record & Play Audio App](https://github.com/ilya-shevtsov/RecordAndPlayAudioApp/tree/master) (**Android MediaRecorder** & MediaPlayer, Uri, Compose)
 - [Simple Video Player App](https://github.com/ilya-shevtsov/VideoPlayerApp) (**ExoPlayer**, MediaItem, Dagger Hilt, Kotlin Coroutines & Flow, Compose)
-- [CheckForAccessApp](https://github.com/ilya-shevtsov/CheckForAccessApp) (Check if user has Root Access or Dev Options ON)
+- [Check For Access App](https://github.com/ilya-shevtsov/CheckForAccessApp) (Check if user has Root Access or Dev Options ON)
 
 ### Sample Projects 
 - [Kotlin Navigation Project](https://github.com/ilya-shevtsov/Kotlin-Navigation-Project)
