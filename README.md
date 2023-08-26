@@ -9,7 +9,7 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 ### Pet Projects
 - [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp) (**WebSockets**, Dagger Hilt, Kotlin Coroutines & Flow, Compose)
 - [Live Group Chat Backend](https://github.com/ilya-shevtsov/ChatAppBackend) (**Ktor**, WebSockets, Koin, MangoDB)
-- [Tic Tac Toe App](https://github.com/ilya-shevtsov/TicTacToeApp) (WebSockets, Dagger Hilt, **Kotlin Coroutines & Flow**, Compose)
+- [TicTacToe App](https://github.com/ilya-shevtsov/TicTacToeApp) (WebSockets, Dagger Hilt, **Kotlin Coroutines & Flow**, Compose)
 - [Tic Tac Toe Backend](https://github.com/ilya-shevtsov/TicTacToeAppBackend) (Ktor, **WebSockets**)
 - [Weather App](https://github.com/ilya-shevtsov/WeatherApp/tree/master) (Open Meteo API, Retrofit, Dagger Hilt, **Clean Archetecture**, MVVM, LocationManager, Kotlin Coroutines & Flow, Compose)
 - [Simple Contacts App](https://github.com/ilya-shevtsov/ContactsApp/tree/master) (**Room**, MVVM, Kotlin Coroutines & Flow, **Compose**)
