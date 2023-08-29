@@ -14,7 +14,7 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 - [Weather App](https://github.com/ilya-shevtsov/WeatherApp/tree/master) (Open Meteo API, Retrofit, Dagger Hilt, **Clean Archetecture**, MVVM, LocationManager, Kotlin Coroutines & Flow, Compose)
 - [Simple Contacts App](https://github.com/ilya-shevtsov/ContactsApp/tree/master) (**Room**, MVVM, Kotlin Coroutines & Flow, **Compose**)
 - [Simple Calculator App](https://github.com/ilya-shevtsov/SimpleCalculatorApp) (Compose)
-- [Simple Picture in Picture Mode App](https://github.com/ilya-shevtsov/PictureInPictureModeApp) (**PictureInPicture**, VideoView, **PictureInPictureParams**, Uri, Compose)
+- [Simple Picture in Picture Mode App](https://github.com/ilya-shevtsov/PictureInPictureModeApp) (**PictureInPicture**, VideoView, PictureInPictureParams, **Uri**, Compose)
 - [Simple Record & Play Audio App](https://github.com/ilya-shevtsov/RecordAndPlayAudioApp/tree/master) (**Android MediaRecorder** & MediaPlayer, Uri, Compose)
 - [Simple Video Player App](https://github.com/ilya-shevtsov/VideoPlayerApp) (**ExoPlayer**, MediaItem, Dagger Hilt, Kotlin Coroutines & Flow, Compose)
 - [Check For Access App](https://github.com/ilya-shevtsov/CheckForAccessApp) (Check if user has Root Access or Dev Options ON)
