@@ -49,6 +49,8 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 - Kotlin Navigation
 - MPAndroidChart
 - Fresco
+- ExoPlayer
+- Picture in Picture Mode
 - Kotlin Serialization
 - Creating my own Seriazliser
 
