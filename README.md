@@ -25,13 +25,13 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 
 
 ## Skills and Experience
-- Kotlin • Java 
-- XML • Kotlin Compose
+- Kotlin  •  Java 
+- XML  •  Kotlin Compose
 - Kotlin Coroutines & Flow
 - MVVM
 - Clean Architecture
 - RXJava
-- Dagger2 **/** Hilt **/** Koin
+- Dagger2  •  Hilt  •  Koin
 - OkHttp3 & Retrofit2
 - WebSocket
 - Ktor
