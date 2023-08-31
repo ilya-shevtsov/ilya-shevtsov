@@ -32,13 +32,10 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 - Dagger2 **/** Hilt **/** Koin
 - OkHttp3 & Retrofit2
 - WebSocket
-- Room Database
+- ROOM Database **/** MangoDB **/** Kotlin Exposed
 - Ktor
 - Firebase Realtime Database
 - Firebase Auth
-- Kotlin Exposed
-- H2 Database
-- MangoDB
 - ViewBinding
 - Groupie
 - Kotlin Navigation
