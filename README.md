@@ -25,12 +25,11 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 
 
 ## Skills and Experience
-- Kotlin / Java 
-- XML / Kotlin Compose
-- MVVM / MVP / OOP
-- Clean Architecture
-- Kotlin Coroutines & Flow
-- RXJava
+- Kotlin **/** Java 
+- XML **/** Kotlin Compose
+- MVVM **/** MVP **/** OOP **/** Clean Architecture
+- Kotlin Coroutines & Flow **/** RXJava
+- Dagger2 **/** Hilt **/** Koin
 - OkHttp3 & Retrofit2
 - WebSocket
 - Room Database
@@ -40,9 +39,6 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 - Kotlin Exposed
 - H2 Database
 - MangoDB
-- Dagger2
-- Hilt
-- Koin
 - ViewBinding
 - Groupie
 - Kotlin Navigation
