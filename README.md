@@ -31,9 +31,7 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 - Clean Architecture
 - Kotlin Coroutines & Flow
 - RXJava
-- Dagger2
-- Hilt
-- Koin
+- Dagger2 **/** Hilt **/** Koin
 - OkHttp3 & Retrofit2
 - WebSocket
 - ROOM Database
