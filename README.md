@@ -30,11 +30,9 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 - MVVM **/** MVP **/** OOP **/** Clean Architecture
 - Kotlin Coroutines & Flow **/** RXJava
 - Dagger2 **/** Hilt **/** Koin
-- OkHttp3 & Retrofit2
-- WebSocket
-- ROOM Database **/** MangoDB **/** Kotlin Exposed
+- OkHttp3 & Retrofit2 **/** WebSocket
+- ROOM Database **/** MangoDB **/** Kotlin Exposed **/** Firebase Realtime Database
 - Ktor
-- Firebase Realtime Database
 - Firebase Auth
 - ViewBinding
 - Groupie
