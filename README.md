@@ -25,7 +25,7 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 
 
 ## Skills and Experience
-- Kotlin       •  Java 
+- Kotlin •  Java 
 - XML  •  Kotlin Compose
 - Kotlin Coroutines & Flow
 - MVVM
