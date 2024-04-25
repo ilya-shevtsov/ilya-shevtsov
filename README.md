@@ -7,6 +7,7 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 
 ## Examples of Work
 ### Pet Projects
+- In Progress: [BudgetingApp](https://github.com/ilya-shevtsov/BudgetingApp) (**Firebase Aut**h, Firebase Database, Retrofit, Fresco/Picasso)
 - [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp) (**WebSockets**, Dagger Hilt, Kotlin Coroutines & Flow, Compose)
 - [Live Group Chat Backend](https://github.com/ilya-shevtsov/ChatAppBackend) (**Ktor**, WebSockets, Koin, MangoDB)
 - [TicTacToe App](https://github.com/ilya-shevtsov/TicTacToeApp) (WebSockets, Dagger Hilt, **Kotlin Coroutines & Flow**, Compose)
