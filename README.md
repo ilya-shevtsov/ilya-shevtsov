@@ -1,7 +1,7 @@
 # Ilya Shevtsov
 Hi! My name is Ilia Shevtsov and I am currently located in Tbilisi, Georgia and seeking a remote job.
 
-I have 2.5 years of experience, knowledge of current technologies and best practices (SOLID, OOP, TTD, MVVM, Clean Architecture, Kotlin Coroutines, Unit Testing, etc...) and experience in migration from legacy code to best practices. 
+I have 3 years of experience, knowledge of current technologies and best practices (SOLID, OOP, TTD, MVVM, Clean Architecture, Kotlin Coroutines, Unit Testing, etc...) and experience in migration from legacy code to best practices. 
 
 For more detail you can check [my resume](https://drive.google.com/file/d/1b2elYS9DvsbTWNX-pqiMFOqgpcXk2wcM/view?usp=sharing).
 
