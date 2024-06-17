@@ -62,4 +62,4 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya-shevtsov&count_private=true&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ilya-shevtsov)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-shevtsov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-shevtsov&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
