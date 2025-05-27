@@ -7,6 +7,8 @@ For more detail you can check [my resume](https://drive.google.com/file/d/1b2elY
 
 ## Examples of Work
 ### Pet Projects
+- [CS:GO Case Portfolio Tracker](https://github.com/ilya-shevtsov/CSGOPortfolioApp)
+- [CSGO Case Portfolio Tracker Backend](https://github.com/ilya-shevtsov/CSGOPortfolioAppBackend) (**Ktor**, Kotlin Exposed, Kotlin Serialization, **Custom Serializer**, Clean Architecture)
 - [Live Group Chat App](https://github.com/ilya-shevtsov/ChatApp) (**WebSockets**, Dagger Hilt, Kotlin Coroutines & Flow, Compose)
 - [Live Group Chat Backend](https://github.com/ilya-shevtsov/ChatAppBackend) (**Ktor**, WebSockets, Koin, MangoDB)
 - [TicTacToe App](https://github.com/ilya-shevtsov/TicTacToeApp) (WebSockets, Dagger Hilt, **Kotlin Coroutines & Flow**, Compose)
