@@ -5,6 +5,10 @@ I have a C2 (Proficient) level of English, confirmed by the [EF SET Certificate 
 
 I have extensive knowledge of current technologies and best practices (SOLID, OOP, TDD, MVVM, Clean Architecture, Kotlin Coroutines, Unit Testing, etc...) and experience in migrating from legacy codebases to modern architecture.
 
+You can contact me here:
+- Telegram: @Ilia_shevtsov  
+- Email: dayzilya@gmail.com
+
 ## Examples of Work
 ### Pet Projects
 - [CS:GO Case Portfolio Tracker](https://github.com/ilya-shevtsov/CSGOPortfolioApp) (**Clean Architecture**, MVVM, **Retrofit**, Dagger 2, Coroutines & Flow)
