@@ -3,7 +3,7 @@ Hi! My name is Ilia Shevtsov and I am currently located in Tbilisi, Georgia and 
 
 I have a C2 (Proficient) level of English, confirmed by the [EF SET Certificate (82/100)](https://cert.efset.org/nsPZhP), which allows me to comfortably work in fully English-speaking teams.
 
-I have extensive knowledge of current technologies and best practices (SOLID, OOP, TTD, MVVM, Clean Architecture, Kotlin Coroutines, Unit Testing, etc...) and experience in migration from legacy code to best practices. 
+I have extensive knowledge of current technologies and best practices (SOLID, OOP, TDD, MVVM, Clean Architecture, Kotlin Coroutines, Unit Testing, etc...) and experience in migrating from legacy codebases to modern architecture.
 
 ## Examples of Work
 ### Pet Projects
