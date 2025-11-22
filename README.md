@@ -31,33 +31,48 @@ You can contact me here:
 
 
 ## Skills and Experience
+**Languages & Core**
 - Kotlin
-- Java 
+- Java
+
+**Android & UI**
+- Jetpack Compose
 - XML
-- Kotlin Compose
-- Kotlin Coroutines & Flow
+- ViewBinding
+- Android Jetpack Navigation
+- Picture-in-Picture (PiP) mode
+
+**Architecture & Patterns**
 - MVVM
 - Clean Architecture
-- RXJava
-- Dagger2
+
+**Concurrency & Async**
+- Kotlin Coroutines & Flow
+- RxJava
+
+**Dependency Injection**
+- Dagger 2
 - Hilt
 - Koin
-- OkHttp3 & Retrofit2
+
+**Networking**
+- Retrofit2
+- OkHttp3
 - WebSocket
 - Ktor
-- ROOM Database
-- MangoDB
+- Kotlin Serialization (including custom serializers)
+
+**Data & Storage**
+- Room Database
+- MongoDB
 - Firebase Realtime Database
 - Firebase Auth
-- ViewBinding
+
+**Libraries & Tools**
 - Groupie
 - MPAndroidChart
 - Fresco
-- Kotlin Navigation
 - ExoPlayer
-- Picture in Picture Mode
-- Kotlin Serialization
-- Creating my own Seriazliser
 
 ## Socials
 
