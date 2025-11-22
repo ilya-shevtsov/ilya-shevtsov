@@ -8,6 +8,7 @@ I have extensive knowledge of current technologies and best practices (SOLID, OO
 You can contact me here:
 - Telegram: @Ilia_shevtsov  
 - Email: dayzilya@gmail.com
+- LinkedIn: [ilia-shevtsov](https://www.linkedin.com/in/ilia-shevtsov-android/)
 
 ## Examples of Work
 ### Pet Projects
